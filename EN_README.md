@@ -24,7 +24,7 @@ If it is not necessary, I hope you will not destroy the original content and fun
 *If you would like, you can open an issue with "extend used" tag and attach your project address; At the same time, attach the project address to your project*
 
 ## TODO
-[x] Complete the document
-[x] Complete English documents
-[x] Upload to GitHub
-[ ] Complete the first version
+- [x] Complete the document
+- [x] Complete English documents
+- [x] Upload to GitHub
+- [ ] Complete the first version
